@@ -68,6 +68,6 @@ local data management, API integration, and modern Android UI development.
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/feed/" target="_blank" rel="noreferrer" title="LinkedIn">
-    <img alt="LinkedIn" width="42px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+    <img alt="LinkedIn" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
   </a>
 </p>

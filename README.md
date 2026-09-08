@@ -50,30 +50,30 @@ An Android music player built with Kotlin and Jetpack Compose.
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="42" height="42" /></a>
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="42" height="42" /></a>
-  <a href="https://developer.android.com/develop/ui/views/layout/declaring-layout" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/XML%20UI-0F9D58?style=for-the-badge&logo=xml&logoColor=white" alt="XML UI" height="42" /></a>
+  <a href="https://developer.android.com/develop/ui/views/layout/declaring-layout" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/lucide:file-code-2.svg?color=%230F9D58" alt="XML UI" title="XML UI" width="42" height="42" /></a>
 </p>
 
 <h3 align="left">Architecture</h3>
 
 <p align="left">
-  <a href="https://developer.android.com/topic/architecture" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MVVM-6C63FF?style=for-the-badge" alt="MVVM" height="42" /></a>
-  <a href="https://developer.android.com/topic/architecture" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Clean%20Architecture-2E7D32?style=for-the-badge" alt="Clean Architecture" height="42" /></a>
-  <a href="https://developer.android.com/topic/architecture" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Repository%20Pattern-7952B3?style=for-the-badge" alt="Repository Pattern" height="42" /></a>
+  <a href="https://developer.android.com/topic/architecture" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/lucide:layers-3.svg?color=%236C63FF" alt="MVVM" title="MVVM" width="42" height="42" /></a>
+  <a href="https://developer.android.com/topic/architecture" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/lucide:workflow.svg?color=%232E7D32" alt="Clean Architecture" title="Clean Architecture" width="42" height="42" /></a>
+  <a href="https://developer.android.com/topic/architecture" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/lucide:archive.svg?color=%237952B3" alt="Repository Pattern" title="Repository Pattern" width="42" height="42" /></a>
 </p>
 
 <h3 align="left">Networking and Async</h3>
 
 <p align="left">
-  <a href="https://square.github.io/retrofit/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge" alt="Retrofit" height="42" /></a>
-  <a href="https://square.github.io/okhttp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OkHttp-111111?style=for-the-badge" alt="OkHttp" height="42" /></a>
-  <a href="https://kotlinlang.org/docs/coroutines-overview.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines" height="42" /></a>
+  <a href="https://square.github.io/retrofit/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/lucide:globe-2.svg?color=%2348B983" alt="Retrofit" title="Retrofit" width="42" height="42" /></a>
+  <a href="https://square.github.io/okhttp/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/lucide:network.svg?color=%23111111" alt="OkHttp" title="OkHttp" width="42" height="42" /></a>
+  <a href="https://kotlinlang.org/docs/coroutines-overview.html" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/lucide:repeat-2.svg?color=%237F52FF" alt="Coroutines" title="Coroutines" width="42" height="42" /></a>
 </p>
 
 <h3 align="left">Dependency Injection</h3>
 
 <p align="left">
-  <a href="https://dagger.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Dagger2-FF6F00?style=for-the-badge" alt="Dagger2" height="42" /></a>
-  <a href="https://dagger.dev/hilt/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge" alt="Hilt" height="42" /></a>
+  <a href="https://dagger.dev/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/lucide:syringe.svg?color=%23FF6F00" alt="Dagger2" title="Dagger2" width="42" height="42" /></a>
+  <a href="https://dagger.dev/hilt/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/lucide:plug-zap.svg?color=%234285F4" alt="Hilt" title="Hilt" width="42" height="42" /></a>
 </p>
 
 <h3 align="left">Database and Backend</h3>
@@ -90,8 +90,8 @@ An Android music player built with Kotlin and Jetpack Compose.
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="42" height="42" /></a>
   <a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="Gradle" width="42" height="42" /></a>
   <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42" /></a>
-  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" height="42" /></a>
-  <a href="https://developer.android.com/training/testing/espresso" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Espresso-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Espresso" height="42" /></a>
+  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" title="JUnit" width="42" height="42" /></a>
+  <a href="https://developer.android.com/training/testing/espresso" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/lucide:test-tube.svg?color=%233DDC84" alt="Espresso" title="Espresso" width="42" height="42" /></a>
 </p>
 
 ## Currently Learning

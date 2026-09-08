@@ -63,11 +63,11 @@ local data management, API integration, and modern Android UI development.
 ## Contact With Me
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/0/" target="_blank" rel="noreferrer" title="Gmail">
+  <a href="https://mail.google.com/mail/u/0/" target="_blank" rel="noopener noreferrer" title="Gmail">
     <img alt="Gmail" width="42px" src="https://cdn.simpleicons.org/gmail/EA4335" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/feed/" target="_blank" rel="noreferrer" title="LinkedIn">
+  <a href="https://www.linkedin.com/feed/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <img alt="LinkedIn" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
   </a>
 </p>

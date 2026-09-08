@@ -35,73 +35,32 @@ An Android music player built with Kotlin and Jetpack Compose.
 - Firebase Firestore data loading and Media3 ExoPlayer playback
 - Track navigation, progress control, remote cover loading, and MVVM-based data flow
 
-<h2 align="left">Languages and Tools</h2>
+## What I Bring to the Table
 
-<h3 align="left">Languages</h3>
+- Modern Android stack: Kotlin, Jetpack Compose, MVVM, Hilt, Coroutines, Room, and Retrofit.
+- Offline-first application development with local data storage and API integration.
+- User-focused Android interfaces built with XML Layouts and Jetpack Compose.
+- Clean, maintainable code organized with Repository Pattern and clear data flows.
 
-<p align="left">
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="42" height="42" /></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" /></a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42" /></a>
-</p>
-
-<h3 align="left">Android and UI</h3>
+## Languages and Tools
 
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="42" height="42" /></a>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="42" height="42" /></a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="48" height="48" /></a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" /></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" /></a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="48" height="48" /></a>
+  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="48" height="48" /></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48" /></a>
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" /></a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" /></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48" /></a>
+  <a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="Gradle" width="48" height="48" /></a>
+  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="48" height="48" /></a>
 </p>
 
 <p>
-  <a href="https://developer.android.com/develop/ui/views/layout/declaring-layout">XML UI</a>
-</p>
-
-<h3 align="left">Architecture</h3>
-
-<p>
-  <a href="https://developer.android.com/topic/architecture">MVVM</a> ·
-  <a href="https://developer.android.com/topic/architecture">Clean Architecture</a> ·
-  <a href="https://developer.android.com/topic/architecture">Repository Pattern</a>
-</p>
-
-<h3 align="left">Networking and Async</h3>
-
-<p>
-  <a href="https://square.github.io/retrofit/">Retrofit</a> ·
-  <a href="https://square.github.io/okhttp/">OkHttp</a> ·
-  <a href="https://kotlinlang.org/docs/coroutines-overview.html">Coroutines</a>
-</p>
-
-<h3 align="left">Dependency Injection</h3>
-
-<p>
-  <a href="https://dagger.dev/">Dagger2</a> ·
-  <a href="https://dagger.dev/hilt/">Hilt</a>
-</p>
-
-<h3 align="left">Database and Backend</h3>
-
-<p align="left">
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="42" height="42" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42" /></a>
-</p>
-
-<p>
-  <a href="https://developer.android.com/training/data-storage/room">Room</a>
-</p>
-
-<h3 align="left">Tools and Testing</h3>
-
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42" /></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="42" height="42" /></a>
-  <a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="Gradle" width="42" height="42" /></a>
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42" /></a>
-  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" title="JUnit" width="42" height="42" /></a>
-</p>
-
-<p>
-  <a href="https://developer.android.com/training/testing/espresso">Espresso</a>
+  Other technologies: XML UI · Clean Architecture · Repository Pattern · Retrofit · OkHttp · Coroutines · Dagger2 · Hilt · Room · Espresso
 </p>
 
 ## Currently Learning

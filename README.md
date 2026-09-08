@@ -12,6 +12,12 @@ focused on building Android applications with Kotlin.
 I am interested in MVVM, clean architecture, offline-first applications,
 local data management, API integration, and modern Android UI development.
 
+<p>
+  <strong>I love code</strong>
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/cat-typing.gif" alt="Cat typing" width="110" />
+  <strong>and building Android apps.</strong>
+</p>
+
 - 🔭 I’m currently working on **[Lyra](https://github.com/huanminh254/Lyra)**, an Android music player built with Kotlin and Jetpack Compose
 - 🌱 I’m currently learning **advanced Jetpack Compose, Android testing, and Firebase integration**
 - 💬 Ask me about **Kotlin, Android, Jetpack Compose, MVVM, Room, Hilt, Retrofit, and Coroutines**

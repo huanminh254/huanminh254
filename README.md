@@ -63,8 +63,11 @@ local data management, API integration, and modern Android UI development.
 ## Contact With Me
 
 <p align="left">
-  <a href="mailto:huan.ngminh@gmail.com" title="Email me"><img align="left" alt="Gmail" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" /></a>
-  <a href="mailto:huan.ngminh@gmail.com">huan.ngminh@gmail.com</a>
-  <br />
-  <a href="https://github.com/huanminh254" target="_blank"><img align="left" alt="Nguyen Minh Huan | GitHub" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a>
+  <a href="https://mail.google.com/mail/u/0/" target="_blank" rel="noreferrer" title="Gmail">
+    <img alt="Gmail" width="42px" src="https://cdn.simpleicons.org/gmail/EA4335" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/feed/" target="_blank" rel="noreferrer" title="LinkedIn">
+    <img alt="LinkedIn" width="42px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+  </a>
 </p>

@@ -35,45 +35,25 @@ An Android music player built with Kotlin and Jetpack Compose.
 - Firebase Firestore data loading and Media3 ExoPlayer playback
 - Track navigation, progress control, remote cover loading, and MVVM-based data flow
 
-## Languages and Tools
-
-### Android Development
+<h2 align="left">Languages and Tools</h2>
 
 <p align="left">
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
-  <a href="https://developer.android.com/" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank"><img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" /></a>
-  <a href="https://developer.android.com/develop/ui/views/layout/declaring-layout" target="_blank"><img src="https://img.shields.io/badge/XML%20Layouts-0F9D58?style=for-the-badge&logo=xml&logoColor=white" alt="XML Layouts" /></a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="42" height="42" /></a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42" /></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" /></a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="42" height="42" /></a>
+  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="42" height="42" /></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42" /></a>
+  <a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="Gradle" width="42" height="42" /></a>
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42" /></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="42" height="42" /></a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite and Room" width="42" height="42" /></a>
 </p>
 
-### Architecture and Data
-
-<p align="left">
-  <a href="https://developer.android.com/topic/architecture" target="_blank"><img src="https://img.shields.io/badge/MVVM-Architecture-6C63FF?style=for-the-badge" alt="MVVM" /></a>
-  <a href="https://developer.android.com/topic/architecture" target="_blank"><img src="https://img.shields.io/badge/Clean%20Architecture-2E7D32?style=for-the-badge" alt="Clean Architecture" /></a>
-  <a href="https://developer.android.com/training/data-storage/room" target="_blank"><img src="https://img.shields.io/badge/Room-Database-03A9F4?style=for-the-badge" alt="Room" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
-</p>
-
-### Networking and Dependency Injection
-
-<p align="left">
-  <a href="https://square.github.io/retrofit/" target="_blank"><img src="https://img.shields.io/badge/Retrofit-API%20Client-48B983?style=for-the-badge" alt="Retrofit" /></a>
-  <a href="https://square.github.io/okhttp/" target="_blank"><img src="https://img.shields.io/badge/OkHttp-Networking-111111?style=for-the-badge" alt="OkHttp" /></a>
-  <a href="https://kotlinlang.org/docs/coroutines-overview.html" target="_blank"><img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Coroutines" /></a>
-  <a href="https://dagger.dev/" target="_blank"><img src="https://img.shields.io/badge/Dagger-Dependency%20Injection-FF6F00?style=for-the-badge" alt="Dagger" /></a>
-  <a href="https://dagger.dev/hilt/" target="_blank"><img src="https://img.shields.io/badge/Hilt-Dependency%20Injection-4285F4?style=for-the-badge" alt="Hilt" /></a>
-</p>
-
-### Tools and Testing
-
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://github.com/huanminh254" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
-  <a href="https://junit.org/junit5/" target="_blank"><img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" /></a>
-  <a href="https://developer.android.com/training/testing/espresso" target="_blank"><img src="https://img.shields.io/badge/Espresso-Testing-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Espresso" /></a>
+<p>
+  <strong>Architecture:</strong> MVVM · Clean Architecture · Repository Pattern<br />
+  <strong>Libraries:</strong> Room · Retrofit · OkHttp · Coroutines · Dagger2 · Hilt · JUnit · Espresso
 </p>
 
 ## Currently Learning

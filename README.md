@@ -6,17 +6,17 @@
 
 ## About Me
 
-I am a third-year Information Technology student at Thang Long University,
-focused on building Android applications with Kotlin.
-
-I am interested in MVVM, clean architecture, offline-first applications,
-local data management, API integration, and modern Android UI development.
-
 <p>
   <strong>I love code</strong>
   <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/cat-typing.gif" alt="Cat typing" width="110" />
   <strong>and building Android apps.</strong>
 </p>
+
+I am a third-year Information Technology student at Thang Long University,
+focused on building Android applications with Kotlin.
+
+I am interested in MVVM, clean architecture, offline-first applications,
+local data management, API integration, and modern Android UI development.
 
 - 🔭 I’m currently working on **[Lyra](https://github.com/huanminh254/Lyra)**, an Android music player built with Kotlin and Jetpack Compose
 - 🌱 I’m currently learning **advanced Jetpack Compose, Android testing, and Firebase integration**

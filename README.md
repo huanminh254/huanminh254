@@ -17,24 +17,6 @@ local data management, API integration, and modern Android UI development.
 - 💬 Ask me about **Kotlin, Android, Jetpack Compose, MVVM, Room, Hilt, Retrofit, and Coroutines**
 - 📫 How to reach me: **[Email](mailto:huan.ngminh@gmail.com)**
 
-## Featured Projects
-
-### [Vocab Lab](https://github.com/huanminh254/vocab)
-
-An Android vocabulary-learning application built with Kotlin, XML Layouts, MVVM, Room, Hilt, Retrofit, OkHttp, and Coroutines.
-
-- Flashcards, quizzes, weak-word review, saved vocabulary, statistics, and writing practice
-- Offline-first local storage with Room, DAO, relations, and schema migrations
-- CSV/JSON vocabulary import and API-based data synchronization
-
-### [Lyra](https://github.com/huanminh254/Lyra)
-
-An Android music player built with Kotlin and Jetpack Compose.
-
-- Discover, Search, Favorites, Downloads, Settings, and Now Playing screens
-- Firebase Firestore data loading and Media3 ExoPlayer playback
-- Track navigation, progress control, remote cover loading, and MVVM-based data flow
-
 ## What I Bring to the Table
 
 - Modern Android stack: Kotlin, Jetpack Compose, MVVM, Hilt, Coroutines, Room, and Retrofit.

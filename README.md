@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nguyen Minh Huan</h1>
 
+<p align="center">
+  <strong>I love code</strong>
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/cat-typing.gif" alt="Cat typing" width="110" />
+  <strong>and building Android apps.</strong>
+</p>
+
 <h3 align="center">
   Android Developer Intern | Kotlin | Jetpack Compose | MVVM
 </h3>
 
 ## About Me
-
-<p>
-  <strong>I love code</strong>
-  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/cat-typing.gif" alt="Cat typing" width="110" />
-  <strong>and building Android apps.</strong>
-</p>
 
 I am a third-year Information Technology student at Thang Long University,
 focused on building Android applications with Kotlin.
